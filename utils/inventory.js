@@ -5,7 +5,7 @@ let inventory = [
     pid: '1',
     name: 'Journal1',
     price: '600',
-    image: '/images/shop/journal-1.png',
+    image: '/images/shop/tshirt1.png',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lacinia pretium eros. Maecenas ornare pulvinar neque, mattis fermentum purus cursus sit amet. Praesent sit amet mollis libero. Donec eros enim, accumsan ac augue quis, faucibus convallis diam. Sed convallis est at libero gravida, eu egestas arcu faucibus. Phasellus sed tellus elit. Sed eleifend eros eu cursus cursus. Vivamus molestie, ante nec tristique semper, velit magna porttitor orci, non egestas turpis mi id massa.',
     colors: ['/images/shop/journal-1.png', '/images/shop/journal-2.png',],
 
@@ -14,7 +14,7 @@ let inventory = [
     pid: '2',
     name: 'Journal2',
     price: '600',
-    image: '/images/shop/journal-1.png',
+    image: '/images/shop/tshirt2.png',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce lacinia pretium eros. Maecenas ornare pulvinar neque, mattis fermentum purus cursus sit amet. Praesent sit amet mollis libero. Donec eros enim, accumsan ac augue quis, faucibus convallis diam. Sed convallis est at libero gravida, eu egestas arcu faucibus. Phasellus sed tellus elit. Sed eleifend eros eu cursus cursus. Vivamus molestie, ante nec tristique semper, velit magna porttitor orci, non egestas turpis mi id massa.',
     colors: ['/images/shop/journal-1.png', '/images/shop/journal-2.png',],
 
