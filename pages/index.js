@@ -8,7 +8,7 @@ import ProductRight from "../components/shop/ProductRight";
 import Head from 'next/head'
 import Features from "../components/shop/Features";
 import Navbar from '../components/Navbar'
-
+import Snackbar from "../components/SnackBar";
 
 const HomeLayout = ({ inventoryData = [] }) => {
     const inventory = inventoryData.slice(0, 4)
@@ -18,6 +18,7 @@ const HomeLayout = ({ inventoryData = [] }) => {
                 <title>Jalabiya - Ecom</title>
                 <link rel='icon' type='image/png' href='/favico.png'></link>
             </Head>
+            <Snackbar message=' 🎉  Flat ₹2499 off for first 50 people!' />
             <Navbar />
             <Hero />
             <Features />
