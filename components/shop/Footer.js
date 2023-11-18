@@ -112,7 +112,7 @@ export default function Footer() {
 				</div>
 			</div>
 			<div className={styles['bottom']}>
-				<p>Build with ❤️ for 🇮🇳 who love to invest &amp; trade</p>
+				<p>Build with ❤️ for 🇮🇳 </p>
 			</div>
 		</footer>
 	)
